@@ -73,7 +73,7 @@ Options:
 -h, --help          Output help information
 -v, --version       Output version information
 -f, --file [file]   Specify the location of the configuration file
--t, --type [type]   All logging is hidden (short | long)
+-t, --type [type]   Specify the type of report (short | long)
 
 Examples:
 postmark-spamcheck --file ./email.txt --type long
