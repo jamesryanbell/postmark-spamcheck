@@ -1,6 +1,6 @@
 {
   "name": "postmark-spamcheck",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Node library for the Postmark spam API",
   "license": "MIT",
   "repository": "jamesryanbell/postmark-spamcheck",
