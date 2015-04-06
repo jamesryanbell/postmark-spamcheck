@@ -23,7 +23,11 @@
     "postmark-spamcheck": "cli.js"
   },
   "keywords": [
-    ""
+    "spam",
+    "postmark",
+    "email",
+    "spamcheck",
+    "spam check"
   ],
   "dependencies": {
     "chalk": "^1.0.0",
