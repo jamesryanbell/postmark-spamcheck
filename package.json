@@ -19,9 +19,9 @@
     "index.js",
     "cli.js"
   ],
-  "bin": [
-    "cli.js"
-  ],
+  "bin": {
+   	"postmark-spamcheck": "cli.js"
+  },
   "keywords": [
     ""
   ],
